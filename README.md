@@ -13,7 +13,7 @@ This can be used to generate a WebView depiction for Cydia using just your Sileo
 
 ### Repo Viewer
 
-Example Available: [Here](https://pinpal.github.io/Sileo-Depiction-WebViews/repo/?repo=https://repo.packix.com/)
+Example Available: [Here](https://drandroidsv.github.io/repo/?repo=http://repo.mastersv.info/)
 <br/><br/>
 This is a great place to set the landing page for your repo. It will automatically handle adding all your packages as well as adding links to their respective depiction pages complete with all the available arguements.
 <br/>
@@ -21,7 +21,7 @@ Simply Specify your Repo's URL in the addresss.
 For example you can view my Cydia repo in using the following arguement:
 
 ```
-https://pinpal.github.io/Sileo-Depiction-WebViews/repo/?repo=https://pinpal.github.io/
+https://drandroidsv.github.io/repo/?repo=https:http://repo.mastersv.info/
 ```
 
 | Property      | Description |
