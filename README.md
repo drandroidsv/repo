@@ -1,25 +1,26 @@
 # Jailbreak Repo Web Viewer
 ## Generate a Cydia/Sileo Repository on a Webpage
 
-**Includes:**
-* All Package Viewer
-* Package Category Sorting
-* Package Category Viewer
-* Sileo Depiction Viewer
-* iOS Style UI
-* Smooth Animations
 
-This can be used to generate a WebView depiction for Cydia using just your SileoDepiction.json file!
+** Incluye: **
+* All Package Viewer
+* Clasificación de categoría de paquete
+* Visor de categoría de paquete
+* Sileo Depiction Viewer
+* IU de estilo iOS
+* Animaciones suaves
+
+¡Esto se puede usar para generar una representación de WebView para Cydia usando solo su archivo SileoDepiction.json!
 
 ### Repo Viewer
 
-Example Available: [Here](https://drandroidsv.github.io//repo/?repo=http://repo.mastersv.info/)
-<br/><br/>
-This is a great place to set the landing page for your repo. It will automatically handle adding all your packages as well as adding links to their respective depiction pages complete with all the available arguements.
-<br/>
-Simply Specify your Repo's URL in the addresss. 
-For example you can view my Cydia repo in using the following arguement:
 
+Ejemplo disponible: [Here](https://drandroidsv.github.io//repo/?repo=http://repo.mastersv.info/)
+<br/><br/>
+Este es un gran lugar para configurar la página de destino para su repositorio. Se encargará automáticamente de agregar todos sus paquetes, así como de agregar enlaces a sus respectivas páginas de representación con todos los argumentos disponibles.
+<br/>
+Simplemente especifique la URL de su repositorio en las direcciones.
+Por ejemplo, puede ver mi repositorio de Cydia usando el siguiente argumento:
 ```
 https://drandroidsv.github.io//repo/?repo=http://repo.mastersv.info/
 ```
